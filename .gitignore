@@ -105,3 +105,5 @@ auth
 cookie.pkl
 captcha.jpg
 mailConfig
+.idea
+.DS_Store
