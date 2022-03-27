@@ -1,0 +1,436 @@
+{
+  "45": [
+    {
+      "time_id": 465,
+      "sub_id": 1053,
+      "abscissa": "篮1号半场",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 465,
+      "sub_id": 1063,
+      "abscissa": "篮2号半场",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 466,
+      "sub_id": 1054,
+      "abscissa": "篮1号半场",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 466,
+      "sub_id": 1064,
+      "abscissa": "篮2号半场",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 467,
+      "sub_id": 1055,
+      "abscissa": "篮1号半场",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 467,
+      "sub_id": 1065,
+      "abscissa": "篮2号半场",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 468,
+      "sub_id": 1056,
+      "abscissa": "篮1号半场",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 468,
+      "sub_id": 1066,
+      "abscissa": "篮2号半场",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 469,
+      "sub_id": 1057,
+      "abscissa": "篮1号半场",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 469,
+      "sub_id": 1067,
+      "abscissa": "篮2号半场",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 470,
+      "sub_id": 1058,
+      "abscissa": "篮1号半场",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 470,
+      "sub_id": 1068,
+      "abscissa": "篮2号半场",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 471,
+      "sub_id": 1059,
+      "abscissa": "篮1号半场",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 471,
+      "sub_id": 1069,
+      "abscissa": "篮2号半场",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 472,
+      "sub_id": 1060,
+      "abscissa": "篮1号半场",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 472,
+      "sub_id": 1070,
+      "abscissa": "篮2号半场",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 473,
+      "sub_id": 1061,
+      "abscissa": "篮1号半场",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 473,
+      "sub_id": 1071,
+      "abscissa": "篮2号半场",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 474,
+      "sub_id": 1062,
+      "abscissa": "篮1号半场",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 474,
+      "sub_id": 1072,
+      "abscissa": "篮2号半场",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 476,
+      "sub_id": 1079,
+      "abscissa": "篮1号半场",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 476,
+      "sub_id": 1080,
+      "abscissa": "篮2号半场",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 475,
+      "sub_id": 1073,
+      "abscissa": "篮1号半场",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    },
+    {
+      "time_id": 475,
+      "sub_id": 1074,
+      "abscissa": "篮2号半场",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 0,
+        "total": 1,
+        "margin": 1,
+        "info": [],
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-23"
+    }
+  ]
+}

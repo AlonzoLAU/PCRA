@@ -1,0 +1,1636 @@
+{
+  "40": [
+    {
+      "time_id": 416,
+      "sub_id": 813,
+      "abscissa": "1号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 815,
+      "abscissa": "2号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 817,
+      "abscissa": "3号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 819,
+      "abscissa": "4号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 821,
+      "abscissa": "5号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 823,
+      "abscissa": "6号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 825,
+      "abscissa": "7号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 416,
+      "sub_id": 827,
+      "abscissa": "8号场地",
+      "yaxis": "10:00-11:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 814,
+      "abscissa": "1号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 816,
+      "abscissa": "2号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 818,
+      "abscissa": "3号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 820,
+      "abscissa": "4号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 822,
+      "abscissa": "5号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 824,
+      "abscissa": "6号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 826,
+      "abscissa": "7号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 417,
+      "sub_id": 828,
+      "abscissa": "8号场地",
+      "yaxis": "11:00-12:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 829,
+      "abscissa": "1号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 830,
+      "abscissa": "2号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 831,
+      "abscissa": "3号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 832,
+      "abscissa": "4号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 833,
+      "abscissa": "5号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 834,
+      "abscissa": "6号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 835,
+      "abscissa": "7号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 418,
+      "sub_id": 836,
+      "abscissa": "8号场地",
+      "yaxis": "12:00-13:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 837,
+      "abscissa": "1号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 838,
+      "abscissa": "2号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 839,
+      "abscissa": "3号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 840,
+      "abscissa": "4号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 841,
+      "abscissa": "5号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 842,
+      "abscissa": "6号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 843,
+      "abscissa": "7号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 419,
+      "sub_id": 844,
+      "abscissa": "8号场地",
+      "yaxis": "13:00-14:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 845,
+      "abscissa": "1号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 846,
+      "abscissa": "2号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 847,
+      "abscissa": "3号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 848,
+      "abscissa": "4号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 849,
+      "abscissa": "5号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 850,
+      "abscissa": "6号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 851,
+      "abscissa": "7号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 420,
+      "sub_id": 852,
+      "abscissa": "8号场地",
+      "yaxis": "14:00-15:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 853,
+      "abscissa": "1号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 854,
+      "abscissa": "2号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 855,
+      "abscissa": "3号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 856,
+      "abscissa": "4号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 857,
+      "abscissa": "5号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 858,
+      "abscissa": "6号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 859,
+      "abscissa": "7号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 421,
+      "sub_id": 860,
+      "abscissa": "8号场地",
+      "yaxis": "15:00-16:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 861,
+      "abscissa": "1号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 862,
+      "abscissa": "2号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 863,
+      "abscissa": "3号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 864,
+      "abscissa": "4号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 865,
+      "abscissa": "5号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 866,
+      "abscissa": "6号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 867,
+      "abscissa": "7号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 422,
+      "sub_id": 868,
+      "abscissa": "8号场地",
+      "yaxis": "16:00-17:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 869,
+      "abscissa": "1号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 870,
+      "abscissa": "2号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 871,
+      "abscissa": "3号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 872,
+      "abscissa": "4号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 873,
+      "abscissa": "5号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 874,
+      "abscissa": "6号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 875,
+      "abscissa": "7号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 423,
+      "sub_id": 876,
+      "abscissa": "8号场地",
+      "yaxis": "17:00-18:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 877,
+      "abscissa": "1号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 878,
+      "abscissa": "2号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 879,
+      "abscissa": "3号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 880,
+      "abscissa": "4号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 881,
+      "abscissa": "5号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 882,
+      "abscissa": "6号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 883,
+      "abscissa": "7号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 424,
+      "sub_id": 884,
+      "abscissa": "8号场地",
+      "yaxis": "18:00-19:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 885,
+      "abscissa": "1号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 886,
+      "abscissa": "2号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 887,
+      "abscissa": "3号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 4,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 888,
+      "abscissa": "4号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 889,
+      "abscissa": "5号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 890,
+      "abscissa": "6号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 891,
+      "abscissa": "7号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 425,
+      "sub_id": 892,
+      "abscissa": "8号场地",
+      "yaxis": "19:00-20:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 893,
+      "abscissa": "1号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 894,
+      "abscissa": "2号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 895,
+      "abscissa": "3号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 896,
+      "abscissa": "4号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 897,
+      "abscissa": "5号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 898,
+      "abscissa": "6号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 899,
+      "abscissa": "7号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 426,
+      "sub_id": 900,
+      "abscissa": "8号场地",
+      "yaxis": "20:00-21:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 901,
+      "abscissa": "1号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 902,
+      "abscissa": "2号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 903,
+      "abscissa": "3号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 904,
+      "abscissa": "4号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 905,
+      "abscissa": "5号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 906,
+      "abscissa": "6号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 907,
+      "abscissa": "7号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    },
+    {
+      "time_id": 427,
+      "sub_id": 908,
+      "abscissa": "8号场地",
+      "yaxis": "21:00-22:00",
+      "row": {
+        "status": 3,
+        "total": 1,
+        "margin": 0,
+        "price": 0,
+        "is_sub": 1,
+        "data": []
+      },
+      "is_sub": 1,
+      "lock_model": 2,
+      "date": "2022-03-24"
+    }
+  ]
+}
