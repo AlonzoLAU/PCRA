@@ -1,7 +1,7 @@
 # PCRA
 
 **Program of Court Reservation of University of Chinese Academy of Sciences (PCRA)**  
-**中国科学院大学运动场地预约程序**  
+**中国科学院大学(雁栖湖校区)运动场地预约程序**  
 
 UCAS 体育场预约脚本， 仅供学习。
 
